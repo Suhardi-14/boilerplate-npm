@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Suhardi Hablee",
 	"description": "Courser for Node Package Manager",
+	"keywords": ["node.js", "backend", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
